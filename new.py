@@ -1,9 +1,3 @@
-echo "# jason_class" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/rjbetz298/jason_class.git
-git push -u origin master
 
 import json
 

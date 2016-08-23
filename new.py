@@ -7,4 +7,4 @@ data = json_data.read()
 
 card_dict = json.loads(data)
 
-print card_dict["Air Elemental"]
+#lets search through the dict for something?!?
